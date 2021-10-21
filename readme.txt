@@ -1,0 +1,1 @@
+https://www.ezzylearning.net/tutorial/asp-net-core-localization-from-database
